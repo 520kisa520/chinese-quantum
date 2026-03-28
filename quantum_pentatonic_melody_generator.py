@@ -1,3 +1,4 @@
+# Last updated in English
 #!/usr/bin/env python3
 """
 Quantum-Inspired Pentatonic Melody Generation - Paper Verified Version

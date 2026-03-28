@@ -1,3 +1,4 @@
+# Last updated in English
 #!/usr/bin/env python3
 """
 Test Average Performance
