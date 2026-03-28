@@ -1,3 +1,4 @@
+# Last updated in English
 #!/usr/bin/env python3
 """
 量子启发五声音阶旋律生成 - 论文验证版
