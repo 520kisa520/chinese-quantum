@@ -1,4 +1,4 @@
-# Quantum-Inspired Pentatonic Melody Generation - Paper Verified Version
+# Quantum-Inspired Pentatonic Melody Generation
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](#) [![Qiskit](https://img.shields.io/badge/Qiskit-2.0%2B-blueviolet.svg)](https://qiskit.org/)
 
