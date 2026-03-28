@@ -1,4 +1,3 @@
-# Last updated in English
 # 面向五声调式的新里曼理论驱动旋律生成模型：量子启发的结构化概率方法
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
