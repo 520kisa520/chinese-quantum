@@ -38,16 +38,10 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Generated files (except 283-Wbase dataset)
+# Generated files
 *.mid
 *.png
 *.pdf
-
-# Old music directory (local files only)
-old music/
-
-# 283-Wbase directory (local dataset only)
-283-Wbase/
 
 # Logs
 *.log
