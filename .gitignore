@@ -43,11 +43,11 @@ Thumbs.db
 *.png
 *.pdf
 
-# Exception: Allow 283-Wbase MIDI files (ground truth dataset)
-!283-Wbase/*.mid
-
 # Old music directory (local files only)
 old music/
+
+# 283-Wbase directory (local dataset only)
+283-Wbase/
 
 # Logs
 *.log
