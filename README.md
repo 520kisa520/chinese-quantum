@@ -18,10 +18,9 @@ This project implements a novel approach to generating pentatonic melodies using
 ```
 chinese quantum/
 ├── LICENSE                    # MIT License
-├── DOCUMENTATION.md           # This file - Project documentation
+├── README.md                  # Project documentation
 ├── chinese_version/           # Chinese implementation
 │   ├── README.md             # Chinese documentation
-│   ├── DOCUMENTATION.md      # Chinese documentation
 │   ├── WPIM.py               # Weighted Phase Interference Model
 │   ├── BMA.py                # Native quantum baseline model
 │   ├── RuleBased.py          # Traditional hard-rule method
