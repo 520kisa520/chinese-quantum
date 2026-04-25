@@ -38,10 +38,13 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Generated files
+# Generated files (except 283-Wbase dataset)
 *.mid
 *.png
 *.pdf
+
+# Exception: Allow 283-Wbase MIDI files (ground truth dataset)
+!283-Wbase/*.mid
 
 # Logs
 *.log
