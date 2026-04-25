@@ -16,7 +16,7 @@ This paper proposes a pentatonic melody generation model completely driven by tr
 
 ## Core Concepts
 
- 1. **Five-Element Circular Pitch Network**: Transforms the five main notes (Gong, Shang, Jiao, Zhi, Yu) into nodes in a topological graph, with legal melodic progressions becoming node connections
+ 1. **Five-Element Circular Pitch Network**: Transforms five main notes (Gong, Shang, Jue, Zhi, Yu) into nodes in a topological graph, with legal melodic progressions becoming node connections
  2. **Note-by-Note Generation Process**: Uses iterative note-by-note generation, with each step predicting the next note through quantum walk based on current position
  3. **Dual-Level Grover Constraint Mechanism**: First-level Grover constraint locks pentatonic scale validity, second-level Grover constraint optimizes melodic progression fluency, achieving "global pitch locking + local fluency control"
  4. **Quantum-Inspired Probability Adjustment**: Borrows amplitude bias ideas from Grover search algorithm, giving higher probability to melodic directions that conform to pentatonic norms
@@ -124,7 +124,7 @@ Pentatonic scale mapping (C major Gong mode):
 |------|-------------------|-------------------|------------|-----------------|
 | v0 | Gong | 1 | 60 (C4) | 000 |
 | v1 | Shang | 2 | 62 (D4) | 001 |
-| v2 | Jiao | 3 | 64 (E4) | 010 |
+| v2 | Jue | 3 | 64 (E4) | 010 |
 | v3 | Zhi | 5 | 67 (G4) | 011 |
 | v4 | Yu | 6 | 69 (A4) | 100 |
 
