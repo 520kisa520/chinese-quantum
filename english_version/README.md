@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ### 3. Run Main Program to Generate Melody
 
 ```bash
-python pentatonic_melody_simple.py
+python WPIM.py
 ```
 
 The program will output:
